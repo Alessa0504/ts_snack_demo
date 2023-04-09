@@ -1,2 +1,2 @@
-# ts_snake_demo
+# typescript_snake_demo
 ts贪吃蛇项目
